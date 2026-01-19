@@ -14,3 +14,15 @@ x = 5
 y = "Hello"
 print(x)
 print(y)
+
+# Example 4 Case sensitivity
+a = 4
+A = "Sally"
+print(a)
+print(A)
+
+# Example 5 simultaneous assignments
+x, y, z = "Orange", "Banana", "Cherry"
+print(x)
+print(y)
+print(z)
