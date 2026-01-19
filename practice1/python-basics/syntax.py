@@ -9,7 +9,7 @@ if x > 5:
     print("This is still inside the if block")
 print("This is outside the if block")
 
-# Example 3: Variables (no declaration needed)
+# Example 3: Variables
 x = 5
 y = "Hello"
 print(x)
