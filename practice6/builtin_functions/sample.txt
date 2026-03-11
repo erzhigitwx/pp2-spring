@@ -1,0 +1,1 @@
+GPT-2 is a large-scale, Transformer-based language model released by OpenAI in 2019, designed to predict the next word in a sequence to generate coherent, human-like text. It was trained on 40GB of internet data (WebText) and demonstrated strong zero-shot capabilities across various NLP tasks like translation and summarization.
