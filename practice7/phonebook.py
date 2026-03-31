@@ -160,7 +160,6 @@ def delete_contact(delete_by, filter_value):
         if conn is not None:
             conn.close()
 
-
 if __name__ == '__main__':
     create_table()
     insert_from_csv('contacts.csv')
